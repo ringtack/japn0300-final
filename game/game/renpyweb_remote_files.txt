@@ -1,8 +1,0 @@
-images/home room.jpg
-image 1920,1080
-images/mc happy.png
-image 3497,1960
-images/mc tired.png
-image 1000,1000
-images/telephone.png
-image 612,408
